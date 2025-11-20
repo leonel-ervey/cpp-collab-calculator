@@ -2,7 +2,10 @@
 // Created by amavi on 19/11/2025.
 //
 
-#ifndef UNTITLED2_OPERATIONS_H
-#define UNTITLED2_OPERATIONS_H
+#ifndef OPERATIONS_H
+#define OPERATIONS_H
 
-#endif //UNTITLED2_OPERATIONS_H
+double add(double a, double b);
+double subtract(double a, double b);
+
+#endif //OPERATIONS_H

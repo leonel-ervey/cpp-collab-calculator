@@ -1,5 +1,9 @@
 #include <iostream>
 #include "operations.h"
+
+double add(double a, double b) { return a + b; }
+double subtract(double a, double b) { return a - b; }
+
 using namespace std;
 int main() {
     int option;
